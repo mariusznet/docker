@@ -72,6 +72,7 @@ gems:
   tag:
     *stable_version:
     - pygments.rb
+    - jekyll-archives
     - jekyll-sitemap
     - jekyll-mentions
     - jekyll-coffeescript
